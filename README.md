@@ -1,5 +1,15 @@
 ## Bingnan Li
 
+Final year PhD student in Spatial Data Science and Artificial Intelligence with multiple publications and research experience at leading industry lab (Map Algorithm Strategy Group of Meituan), looking for research and/or engineering job opportunities. CV available at https://alexbnlee.github.io/files/cv.pdf
+
+Specialties:
+- Geospatial data (satellite and aerial imagery) processing
+- Image segmentation and classification through deep learning algorithms
+- Social media analysis based on deep learning and natural language processing
+- Research and development of GIS/RS applications
+- GIS-based software development
+- Python, C, C#, R programming
+
 I finished my PhD in University of New South Wales (UNSW Syndey) in Feb 2022. My PhD research topic is short- and long-term behaviour of timber-timber composite (TTC) system. During my study, I colaborated with many well recognized researchers such as [A/Prof Hamid Valipour](https://www.unsw.edu.au/staff/hamid-vali-pour-goudarzi) at UNSW Sydney and [Dr. Stefania Fortino](https://cris.vtt.fi/en/persons/stefania-fortino) at VTT Finland.
 
 From May 2021, I joined [Digitise Consulting](https://digitiseconsulting.com) as a Graduate Ditigal Specialist. I was involved in several infrastructure projects in NSW such as M6 Stage 1, Great Western Highway, Mamre Road. In July 2021, I joined [WSP in Australia](https://www.wsp.com/en-au) as a Digital Engineer in WSP Digital.
