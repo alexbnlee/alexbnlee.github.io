@@ -1,6 +1,6 @@
 ## Bingnan Li
 
-Final year PhD student in Spatial Data Science and Artificial Intelligence with multiple publications and research experience at leading industry lab (Map Algorithm Strategy Group of Meituan), looking for research and/or engineering job opportunities. CV available at https://alexbnlee.github.io/files/cv.pdf
+Final year PhD student in Spatial Data Science and Artificial Intelligence with multiple publications and research experience at leading industry lab (Map Algorithm Strategy Group of Meituan), looking for research and/or engineering job opportunities. CV available at https://alexbnlee.github.io/cv.pdf
 
 Specialties:
 - Geospatial data (satellite and aerial imagery) processing
