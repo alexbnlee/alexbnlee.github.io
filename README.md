@@ -1,6 +1,6 @@
 ## Bingnan Li
 
-Final year PhD student in Spatial Data Science and Artificial Intelligence with multiple publications and research experience at leading industry lab (Map Algorithm Strategy Group of Meituan), looking for research and/or engineering job opportunities. CV available at https://alexbnlee.github.io/cv.pdf
+Final year PhD student in Spatial Data Science and Artificial Intelligence with multiple publications and research experience at leading industry lab (Map Algorithm Strategy Group of [Meituan](https://about.meituan.com/en)), looking for research and/or engineering job opportunities. CV available at https://alexbnlee.github.io/cv.pdf
 
 Specialties:
 - Geospatial data (satellite and aerial imagery) processing
@@ -10,38 +10,23 @@ Specialties:
 - GIS-based software development
 - Python, C, C#, R programming
 
-I finished my PhD in University of New South Wales (UNSW Syndey) in Feb 2022. My PhD research topic is short- and long-term behaviour of timber-timber composite (TTC) system. During my study, I colaborated with many well recognized researchers such as [A/Prof Hamid Valipour](https://www.unsw.edu.au/staff/hamid-vali-pour-goudarzi) at UNSW Sydney and [Dr. Stefania Fortino](https://cris.vtt.fi/en/persons/stefania-fortino) at VTT Finland.
+My PhD research topic is deep learning-based spatio-temporal data mining using geospatial data. During my study, I colaborated with many well recognized researchers such as [A/Prof Samsung Lim](https://www.unsw.edu.au/staff/samsung-lim) at UNSW Sydney and [A/Prof Hai Jiang](https://www.ie.tsinghua.edu.cn/eng/info/1017/1758.htm) at Tsinghua University.
 
-From May 2021, I joined [Digitise Consulting](https://digitiseconsulting.com) as a Graduate Ditigal Specialist. I was involved in several infrastructure projects in NSW such as M6 Stage 1, Great Western Highway, Mamre Road. In July 2021, I joined [WSP in Australia](https://www.wsp.com/en-au) as a Digital Engineer in WSP Digital.
+Research interests: **Semantic segmentation**, **Spatio-temporal data mining**, **Urban computing**, **Deep learning**
 
-Research interests: **Innovative timber structures**, **Finite element modelling**, **Digital Engineering, Deep learning**
+E-mail: [bingnan.li@unsw.edu.au](mailto:bingnan.li@unsw.edu.au), [alex_bn_lee@hotmail.com](mailto:alex_bn_lee@hotmail.com)
 
-E-mail: yatong.nie@unsw.edu.au, nieyatong@gmail.com
-
-Related links: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=39jWzgIAAAAJ)/ResearchGate/Linkedin
-
-### News
-
-- [2nd Feb 2022] Yatong Nie was awared the Doctor of Philosophy from UNSW! Congratulations to Dr. Nie!
-- [22nd Nov 2021] Yatong Nie started the full-time job in Digitise Consulting
-- [8th Nov 2021] Yatong Nie submitted her PhD thesis
+Related links: [Google Scholar](https://scholar.google.com/citations?user=J7Skk-kAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Bingnan-Li-6/research), [LinkedIn](https://www.linkedin.com/in/alexbnlee/), [GitHub](https://github.com/alexbnlee)
 
 ### Publications
 
-#### Journal Paper:
-
-1. **Nie Y**, Valipour H. [Experimental and analytical study of timber-timber composite (TTC) beams subjected to long-term loads](https://www.sciencedirect.com/science/article/abs/pii/S0950061822017445). Construction and Building Materials 342 (2022): 128079.
-2. **Nie Y**, Valipour H. Experimental and numerical study of long-term behaviour of timber-timber composite (TTC) connections. Construction and Building Materials 304 (2021): 124672.
-3. **Nie Y**, Karimi A, Valipour H. Experimental behaviour and numerical modelling of timber-timber composite (TTC) joints. Construction and Building Materials 290 (2021): 123273.
-4. **Nie Y**, Qing L. The relationship between double-K parameters of concrete based on fracture extreme theory. Journal of theoretical and applied mechanics. 2020, 58(1):59–71.
-5. Qing L, **Nie Y**, Wang J, et al. A simplified extreme method for determining double-K fracture parameters of concrete using experimental peak load. Fatigue & Fracture of Engineering Materials and Structures. 2017, 40(2): 254-266.
-
-#### Conference Abstract:
-
-1. Fortino S, Hradil P, Nie Y, et al. FEM simulation of moisture transport and evaluation of decay rating in untreated and thermally modified wood products. WSE, Finland 2020.
-2. Nie Y, Valipour H. Long-term finite element analysis of timber-steel composite joint. CompWood, Sweden, 2019.
-
-#### Submitted and prepared:
-
-1. Nie Y, Valipour H. 3D Finite element modelling for long-term behaviour of timber-timber composite (TTC) beams. Materials and Structures. (In Preparation)
-2. Nie Y, Valipour H. Machine learning for prediction long-term deflection for timber-timber composite (TTC) beams. Computer aided civil and infrastructure engineering. (In Preparation)
+1. **Bingnan Li**, Jiuchong Gao, Shuiping Chen, Samsung Lim, and Hai Jiang. [POI Detection of High-Rise Buildings Using Remote Sensing Images: A Semantic Segmentation Method Based on Multi-Task Attention Res-U-Net](https://ieeexplore.ieee.org/document/9772631). *IEEE Transactions on Geoscience and Remote Sensing* 60 (2022): 1-16.
+2. **Bingnan Li**, Liying Chen, Daping Xiong, Shuiping Chen, Samsung Lim, and Hai Jiang. Simultaneous Detection of Multiple Areas-of-Interest Using Geospatial Data from an Online Food Delivery Platform. *ACM SIGSPATIAL 2022*. (Accepted)
+3. **Bingnan Li**, Zi Chen, and Samsung Lim. [Geolocation Inference Using Twitter Data: A Case Study of COVID-19 in the Contiguous United States](https://link.springer.com/chapter/10.1007/978-3-030-76374-9_8). *Communications in Computer and Information Science* 1411 (2021): 119-139.
+4. **Bingnan Li**, Zi Chen, and Samsung Lim. [Geolocation Prediction from Tweets: A Case Study of Influenza-like Illness in Australia](https://www.scitepress.org/Papers/2020/93451/93451.pdf). *GISTAM* (2020): 160-167.
+5. **Bingnan Li**, Jiuchong Gao, Shuiping Chen, Samsung Lim, and Hai Jiang. Interior Road Extraction within Residential Complexes: A Decoder Fusion Model Leveraging Remote Sensing Images and GPS Trajectories. *IEEE Transactions on Geoscience and Remote Sensing*. (Under Review)
+6. Zi Chen, Badal Pokharel, **Bingnan Li**, and Samsung Lim. [Location Extraction from Twitter Messages Using a Bidirectional Long Short-Term Memory Neural Network with Conditional Random Field Model](https://link.springer.com/chapter/10.1007/978-3-030-76374-9_2). *Communications in Computer and Information Science* 1411 (2021): 18-30.
+7. Zi Chen, Badal Pokharel, **Bingnan Li**, and Samsung Lim. [Location Extraction from Twitter Messages using Bidirectional Long Short-Term Memory Model](https://www.scitepress.org/Papers/2020/93388/93388.pdf). *GISTAM* (2020): 45-50.
+8. Lingling Jiang, Xiangyu Guo, Lin Wang, Shubha Sathyendranath, Hayley Evers-King, Yanlong Chen, and **Bingnan Li**. [Validation of MODIS ocean-colour products in the coastal waters of the Yellow Sea and East China Sea](https://link.springer.com/article/10.1007/s13131-019-1522-3). *Acta Oceanologica Sinica* 39.1 (2020): 91-101.
+9. Jianchao Fan, Jianhua Zhao, Min Han, Xinxin Wang, and **Bingnan Li**. [Marine Aquaculture Targets Automatic Recognition Based on GF-3 PolSAR Imagery](https://link.springer.com/chapter/10.1007/978-3-319-92537-0_52). *International Symposium on Neural Networks*. Springer, Cham, 2018.
+10. Jianchao Fan, Jianhua Zhao, Xinxin Wang, Xiang Wang, Jialan Chu, and **Bingnan Li**. [Marine Reclamation Feature Analysis Based on GF-3 SAR Remote Sensing Imagery](https://ieeexplore.ieee.org/abstract/document/8127367). *2017 IEEE International Geoscience and Remote Sensing Symposium (IGSRSS)*. IEEE, 2017.
